@@ -312,7 +312,7 @@ In addition to scaling, we will learn about:
 
 ## Lectures
 
-* Meets Tuesday and Thursday from 3--4:40PM in Phelps 2510 (here)
+* Meets Tuesday and Thursday from 3--4:50PM in Phelps 2510 (here)
 * The lectures and associated reading will cover the concepts you are expected
   to learn in this class
 
@@ -500,7 +500,7 @@ me.
 # First Five Weeks
 
 * The basics (HTTP and HTML)
-* _Industrial_ software engineering: _Agile_, _TDD_, _Continuous Integration
+* _Industrial_ software engineering: _Agile_, _TDD_, Continuous Integration
   (CI), Pair Programming
 * HTTP Application Server architectures
 * High availability via load balancing: a share-nothing web stack
